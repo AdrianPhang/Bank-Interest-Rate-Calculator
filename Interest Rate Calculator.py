@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sun Jul 28 12:24:08 2019
-
 @author: phang
 """
 #Defining a conditional statement as InterestRateCalculator which calculates the interest rates based on the basis of DBS Multiplier account.
